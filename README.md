@@ -1,2 +1,2 @@
 # Machine-Learning-Speacialization
-Machine Learning
+# Supervised and unsupervised learning
